@@ -2,15 +2,15 @@
 /*define a borda, padding, cor de fundo e arredondamento de borda do conteiner*/
 
 .cont {
-    border: 1px solid #ccc;
+    border: 1px solid #dd1212;
     padding: 10px;
     margin: 10px;
-    background: #f6b4ff;
+    background: #9847a3;
     border-radius: 10px;
 }
 
 .cont2 {
-    border: 1px solid #ccc;
+    border: 1px solid #771616;
     padding: 10px;
     margin: 10px;
     background: #ff9ecf;
