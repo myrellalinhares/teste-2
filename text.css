@@ -5,7 +5,7 @@ body {
   font-family: 'Roboto Mono', monospace;
   background: #14B6BA;
   width: 100%;
-  color: black;
+  color: rgb(255, 255, 255);
 }
 
 /*estiliza tosos os títulos h1*/
