@@ -3,7 +3,7 @@
 /*Defione a fonde dos elementod de dentro do body*/
 body {
   font-family: 'Roboto Mono', monospace;
-  background: #14B6BA;
+  background: rgb(255, 195, 251);
   width: 100%;
   color: rgb(255, 255, 255);
 }
